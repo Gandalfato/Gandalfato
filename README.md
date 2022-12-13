@@ -2,8 +2,7 @@
 
 I am Mattia!  
 I am passionate in technology🚀, I love ❤ data.  
-I want to improve my skills up to moon 🌓
-
+I want to improve my skills up to moon 🌓.
 
 <!--
 **Gandalfato/Gandalfato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
