@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Mattia! 
+I am Mattia! <b>
 I am passionate in technology🚀, I love ❤❤❤ data.
 I want to improve my skills up to moon 🌓
 
